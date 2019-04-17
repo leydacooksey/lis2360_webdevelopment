@@ -15,6 +15,9 @@ p, li, td {
 	letter-spacing: 0.1em;
 	color: #437070;
 }
+ul{
+	margin-left: 15px;
+}
 h1 {
 	font-size: 22px;
 	padding: 6px 0;
